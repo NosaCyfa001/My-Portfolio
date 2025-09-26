@@ -33,7 +33,7 @@ function Main() {
               <LinkedIn />
             </a>
           </div>
-          <h1>Cyfa</h1>
+          <h1>Cyfa Tech</h1>
           <p>Software Developer</p>
 
           {/* Test change */}
