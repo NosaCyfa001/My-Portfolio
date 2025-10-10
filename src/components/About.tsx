@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Chip from "@mui/material/Chip";
 import "../assets/styles/About.scss";
 import { faCertificate, faSchool } from "@fortawesome/free-solid-svg-icons";
-import { Web } from "@mui/icons-material";
 
 const labelsFirst = [
   "HTML5",
@@ -28,10 +27,13 @@ function About() {
         <div className="skills-grid">
           {/* Skills & Experience */}
           <div className="skill">
-  
-            <h3>Web Development</h3>
             <p>
-            Am a software developer with 3 years of experience building production-ready web applications. Expert in React, TypeScript, and modern backend technologies. I create seamless user experiences while maintaining robust, scalable codebases that teams love to work with.
+              I’m a web developer skilled in React/Next.js, TypeScript, and modern
+              backend tools, focused on building clean, responsive, and scalable
+              web applications. I enjoy solving real-world problems through code
+              and creating seamless user experiences. I’m eager to grow,
+              collaborate with talented teams, and contribute to impactful
+              products.
             </p>
             <div className="flex-chips">
               <span className="chip-title">Core Tech Stack:</span>
